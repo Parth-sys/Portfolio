@@ -20,7 +20,7 @@ function Home(){
 
 
       <div class="socials">
-      <a href="https://github.com/Parth-sys" target="_blank"
+      <a href="https://github.com/Parth-sys" target="_blan"
       ><img src={pic} alt="Github" class="socicon"
       /></a>
     </div>

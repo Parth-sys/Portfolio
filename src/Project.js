@@ -19,7 +19,7 @@ function Project(){
 
           
         </p>
-        <a href="#" target="_blank" className="project-link">Check it Out</a>
+        <a href="https://github.com/Parth-sys/zen-Hack"  className="project-link">Check it Out</a>
     </div>
     <div className="project-container project-card">
         
@@ -28,7 +28,7 @@ function Project(){
            BookMyShow is all about booking movies tickets online<br/>
            Razor pay is integrated for online payments.
         </p>
-        <a href="#" target="_blank" className="project-link">Check it Out</a>
+        <a href="https://github.com/Parth-sys"  className="project-link">Check it Out</a>
     </div>
     <div className="project-container project-card">
         
@@ -40,7 +40,7 @@ function Project(){
 
 
         </p>
-        <a href="#" target="_blank" className="project-link">Check it Out</a>
+        <a href="https://github.com/Parth-sys/Zen-Capstone"  className="project-link">Check it Out</a>
     </div>
 
 
@@ -53,7 +53,7 @@ function Project(){
              Online Pizza delivery system is for ordering Pizza online.User can order<br/>
               and pay for the order through online mode . 
         </p>
-        <a href="#" target="_blank" className="project-link">Check it Out</a>
+        <a href="https://github.com/Parth-sys/Foody"  className="project-link">Check it Out</a>
     </div>
 
 
