@@ -1,7 +1,6 @@
 import React from "react";
 import pic from './icons/icons8-javascript.svg'
 import pic2 from './icons/icons8-css3.svg'
-import pic3 from "./icons/c-programming-language-seeklogo.com.svg"
 import pic4 from "./icons/icons8-html-5.svg"
 import logo from "./logo.svg"
  function Skills(){
