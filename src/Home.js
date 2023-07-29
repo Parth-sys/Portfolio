@@ -4,6 +4,7 @@ import pic from "./icons/icons8-github.gif"
 import About from "./About";
 import Skills from "./Skills";
 import Project from "./Project";
+import Contact from "./Contact";
 
 function Home(){
     return(
@@ -41,6 +42,7 @@ function Home(){
 
  <Skills></Skills>
  <Project/>
+ <Contact></Contact>
       </>
 
     )
