@@ -8,13 +8,13 @@ import Contact from './Contact';
 import React from 'react';
 import Skills from './Skills';
 import { Link, Route,Routes } from "react-router-dom";
-
+import 'bootstrap'
 
 
 function App() {
 
 return(
-  <div style={{}}>
+  <div >
    <nav>
      <h1>Parthsarthi Chandratre</h1>
      <ul>

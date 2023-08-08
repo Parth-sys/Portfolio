@@ -49,6 +49,7 @@ nav {
   align-items: center;
   justify-content: space-between;
   padding: 1.5rem 3.5rem;
+  flex-wrap: wrap;
   background-color: var(--bg-color);
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
 }
@@ -91,6 +92,7 @@ nav a:hover {
 
 nav ul {
   display : flex;
+  flex-wrap: wrap;
 }
 
 .projects{
@@ -152,12 +154,23 @@ nav ul {
 }
 
 
+
 .project-card:hover {
   transition: all 0.2 ease-in-out;
   transform: scale(1.2);
   background-color: #4756df;
   width: fit-content;
+  color: white;
 }
+
+
+.front{
+  display: flex ;
+  flex-wrap: wrap;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
 
 .bio {
   width: 25rem;
@@ -224,12 +237,15 @@ nav ul {
   padding: 20px;
   margin: 10px;
 }
-
+.about{
+  background-color: #f0ede6;
+}
 
 .hero {
   display: flex;
   align-items: center;
   justify-content: center;
+ flex-wrap: wrap;
   gap: 2.5rem;
   max-width: 68.75rem;
   margin: auto;
@@ -247,6 +263,11 @@ p {
   text-shadow: 0 0 7px rgba(255, 255, 255, 0.3), 0 0 3px rgba(255, 255, 255, 0.3);
 }
 
+
+
+
+
+
 .container {
   color: #2c2929;
   font-size: 2.26rem;
@@ -256,6 +277,10 @@ p {
   align-items: center;
   justify-content: center;
 }
+
+
+
+
 
 .animation {
   height: 50px;

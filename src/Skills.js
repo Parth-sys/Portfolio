@@ -12,7 +12,7 @@ import logo from "./logo.svg"
         <div class="skills-wrapper">
       <div class="first-set animate__animated animate__pulse">
           <img
-           src={pic}
+           src={pic4}
           alt=""
           loading="lazy"
           class="icon icon-card"
@@ -24,7 +24,7 @@ import logo from "./logo.svg"
           class="icon icon-card"
           />
           <img
-          src={pic4}
+          src={pic}
           alt=""
           loading="lazy"
           class="icon icon-card"
@@ -33,13 +33,13 @@ import logo from "./logo.svg"
 
       <div class="second-set animate__animated animate__pulse">
           <img
-          src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
+          src={logo}
           alt=""
           loading="lazy"
           class="icon icon-card"
           />
           <img
-          src={logo}
+          src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
           alt=""
           loading="lazy"
           class="icon icon-card"

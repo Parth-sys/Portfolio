@@ -2,7 +2,7 @@ import React from "react";
 import pic from './icons/wfh_1.svg'
 function About(){
     return(
-        <div  style={{backgroundColor:"white"}}>
+        <div className="about">
          <section class="hero" id="#about">
         <img
         src={pic}

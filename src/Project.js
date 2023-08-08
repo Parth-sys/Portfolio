@@ -56,9 +56,61 @@ function Project(){
         <a href="https://github.com/Parth-sys/Foody"  className="project-link">Check it Out</a>
     </div>
 
+    
+
 
 
     </div>
+
+    <h2 className="projects-title">Frontend Projects</h2><br/>
+   
+    <div className="front" >
+
+    
+        
+      
+               
+    <div className="project-container project-card" >
+        
+        <h3 className="project-title">Opic Transport</h3>
+        <p className="project-details">
+             About Logitic services and Transport services<br/>
+        </p>
+        <a href="https://loquacious-unicorn-a565fe.netlify.app/"  className="project-link">Check it Out</a>
+    </div>
+
+    <div className="project-container project-card">
+        
+        <h3 className="project-title">Aesop clone</h3>
+        <p className="project-details">
+             About Logitic services and Transport services<br/>
+        </p>
+        <a href="https://loquacious-unicorn-a565fe.netlify.app/"  className="project-link">Check it Out</a>
+    </div>
+
+
+    <div className="project-container project-card">
+        
+        <h3 className="project-title">Rabindranath Tagore Bio</h3>
+        <p className="project-details">
+             Rebel Poet Rabindranath Tagore bio Info website<br/>
+        </p>
+        <a href="https://optimistic-euclid-80e98f.netlify.app"  className="project-link">Check it Out</a>
+    </div>
+
+
+    <div className="project-container project-card">
+        
+        <h3 className="project-title">Admin dashboard</h3>
+        <p className="project-details">
+             Admin Panel  <br/>
+        </p>
+        <a href="https://gallant-wiles-5e215f.netlify.app"  className="project-link">Check it Out</a>
+    </div>
+
+
+    </div>
+
 </section>
 
 
