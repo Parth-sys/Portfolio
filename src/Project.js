@@ -93,7 +93,7 @@ function Project(){
         
         <h3 className="project-title">Rabindranath Tagore Bio</h3>
         <p className="project-details">
-             Rebel Poet Rabindranath Tagore bio Info website<br/>
+             Rebel Poet Rabindranath Tagore bio <br/>
         </p>
         <a href="https://optimistic-euclid-80e98f.netlify.app"  className="project-link">Check it Out</a>
     </div>
