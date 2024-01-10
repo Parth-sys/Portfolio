@@ -13,13 +13,13 @@ function Project(){
       <div className="projects-container">
           <div className="project-container project-card">
               
-              <h3 className="project-title">Guvi Hackthon</h3>
+              <h3 className="project-title">E-commerce Website</h3>
               <p className="project-details">
-          Guvi Hackthon task using fire and ice api.<br/>
+          Ecom is  a platform where u can buy electronics,cloths, grocery .<br/>
 
           
         </p>
-        <a href="https://github.com/Parth-sys/zen-Hack"  className="project-link">Check it Out</a>
+        <a href="https://github.com/Parth-sys/Frontend"  className="project-link">Check it Out</a>
     </div>
     <div className="project-container project-card">
         
